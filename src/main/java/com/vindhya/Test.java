@@ -7,6 +7,10 @@ public class Test {
 		System.out.println("data"+data);
 
 	}
+	public void testdata()
+	{
+		System.out.println("testdata");
+	}
 	public static void main(String[] args) {
 		printdata("Hello");
 
